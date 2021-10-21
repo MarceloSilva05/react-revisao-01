@@ -1,0 +1,20 @@
+
+header{
+    justify-content:start;
+    width:100vw;
+    align-items: center;
+    flex: 1 4vh;
+    padding: 2vh 0 2vh 0;
+    display: flex;
+    background-color: #9BC9F5;
+}
+ol{
+    display: flex;
+    list-style: none;
+    gap: 40%;
+     margin-left: 20%;
+
+}
+li a{
+    color:rgb(8, 44, 44);
+}
